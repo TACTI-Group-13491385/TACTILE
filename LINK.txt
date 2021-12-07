@@ -1,0 +1,4 @@
+https://www.w3.org/community/speech-api/
+
+
+https://github.com/w3c/vibration
